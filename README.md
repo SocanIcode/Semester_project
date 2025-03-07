@@ -1,6 +1,7 @@
 [**The Community Science Museum**](https://github.com/SocanIcode/Semester_project/tree/main-2)
 
-![The community science museum image card, retrived from profilepage card]([https://github.com/SocanIcode/Portfolio-1/blob/main/images/science-museum-card.jpg))
+![The community science museum image card, retrived from profilepage card](https://github.com/SocanIcode/Portfolio-1/blob/main/images/science-museum-card.jpg)
+..
 
 **Overview**
 
@@ -15,16 +16,17 @@ This project showcases skills in design, planning, and development using HTML an
 - Different redirection links tailored for different visitor groups (kids, teachers, and researchers) for an optimized user experience
 
 - Structured layout for seamless browsing and usability
+---
 
 **Pages Included**
 
 - [index.html](https://github.com/SocanIcode/Semester_project/blob/main-2/index.html) - Home Page
 
-[- application_form.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/application_form.html) - Booking Page
+- [application_form.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/application_form.html) - Booking Page
 
-[- contact.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/contact.html)  - Contact Page
+- [contact.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/contact.html)  - Contact Page
 
-[- contribution.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/contribution.html) - Contributor Page
+- [contribution.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/contribution.html) - Contributor Page
 
 - [document.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/document.html) - Document, Image, and Other Files Page
 
@@ -34,15 +36,16 @@ This project showcases skills in design, planning, and development using HTML an
 
 - [for_researcher.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/for_researcher.html) - Researcher Section
 
--[ for_teacher.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/for_teacher.html) - Teacher Section
+- [for_teacher.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/for_teacher.html) - Teacher Section
 
 - [privacy_policy.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/privacy_policy.html) - Privacy Policy Page
 
--[ terms_condition.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/terms_condition.html) - Terms & Conditions Page
+- [terms_condition.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/terms_condition.html) - Terms & Conditions Page
 
 - [thank_you_application.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/thank_you_application.html) - Application Submission Confirmation Page
 
 - [thank_you_our_guild_booking.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/thank_you_our_guild_booking%20copy.html) - Guild Booking Confirmation Page
+---
 
 **Built With**
 
@@ -53,6 +56,7 @@ This project showcases skills in design, planning, and development using HTML an
 - HTML - Structure & Markup
 
 - CSS - Styling & Layout
+  ---
 
 **Reflection & Areas for Improvement**
 
@@ -61,6 +65,7 @@ This project showcases skills in design, planning, and development using HTML an
 - Content Management & Folder Structure - Improving organization for better maintainability
 
 - Ensuring Public Accessibility - Making all project files available and easily accessible
+  ---
 
 **User-Centric Experience**
 
