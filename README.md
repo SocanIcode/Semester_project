@@ -49,9 +49,9 @@ This project showcases skills in design, planning, and development using HTML an
 - [thank_you_application.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/thank_you_application.html) - Application Submission Confirmation Page
 
 - [thank_you_our_guild_booking.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/thank_you_our_guild_booking%20copy.html) - Guild Booking Confirmation Page
----
 
-**Built With**
+
+**List of Languages**
 ---
 
 - Figma - UI/UX Design
@@ -61,7 +61,7 @@ This project showcases skills in design, planning, and development using HTML an
 - HTML - Structure & Markup
 - CSS - Styling & Layout
   
-  ---
+
 
 **Reflection & Areas for Improvement**
 ---
@@ -70,7 +70,7 @@ This project showcases skills in design, planning, and development using HTML an
 
 - Content Management & Folder Structure - Improving organization for better maintainability
 
- -Ensuring Public Accessibility - Making all project files available and easily accessible
+ - Ensuring Public Accessibility - Making all project files available and easily accessible
  
 
 
