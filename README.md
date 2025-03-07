@@ -1,7 +1,7 @@
 [**The Community Science Museum**](https://github.com/SocanIcode/Semester_project/tree/main-2)
 
 ![The community science museum image card, retrived from profilepage card](https://github.com/SocanIcode/Portfolio-1/blob/main/images/science-museum-card.jpg)
-..
+
 
 **Overview**
 
