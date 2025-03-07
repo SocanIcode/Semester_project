@@ -1,16 +1,16 @@
-[**The Community Science Museum**](https://github.com/SocanIcode/Semester_project/tree/main-2)
----
+## Semester Project 1 - [The Community Science Museum](https://github.com/SocanIcode/Semester_project/tree/main-2)
+
 
 ![The community science museum image card, retrived from profilepage card](https://github.com/SocanIcode/Portfolio-1/blob/main/images/science-museum-card.jpg)
 
 
-**Overview**
----
+## Overview
+
 
 This project showcases skills in design, planning, and development using HTML and CSS, ensuring mobile-friendliness and accessibility for an engaging user experience.
 
-**Features**
----
+## Features
+
 
 - Fully responsive design for desktop and mobile devices
 
@@ -21,8 +21,7 @@ This project showcases skills in design, planning, and development using HTML an
 - Structured layout for seamless browsing and usability
 
 
-**Pages Included**
----
+## Pages Included
 
 - [index.html](https://github.com/SocanIcode/Semester_project/blob/main-2/index.html) - Home Page
 
@@ -51,8 +50,7 @@ This project showcases skills in design, planning, and development using HTML an
 - [thank_you_our_guild_booking.html](https://github.com/SocanIcode/Semester_project/blob/main-2/html/thank_you_our_guild_booking%20copy.html) - Guild Booking Confirmation Page
 
 
-**List of Languages**
----
+## List of Languages
 
 - Figma - UI/UX Design
 
@@ -63,8 +61,7 @@ This project showcases skills in design, planning, and development using HTML an
   
 
 
-**Reflection & Areas for Improvement**
----
+## Reflection & Areas for Improvement
 
 - JavaScript Integration - Enhancing interactivity for a more dynamic experience
 
@@ -74,8 +71,7 @@ This project showcases skills in design, planning, and development using HTML an
  
 
 
-**User-Centric Experience**
----
+## User-Centric Experience
 
 This project establishes a structured user guideline for a museum, catering to three different visitor groups: researchers, teachers, and students/kids. Each group is offered tailored packages, improving the user experience significantly.
 
