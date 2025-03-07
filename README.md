@@ -1,13 +1,16 @@
 [**The Community Science Museum**](https://github.com/SocanIcode/Semester_project/tree/main-2)
+---
 
 ![The community science museum image card, retrived from profilepage card](https://github.com/SocanIcode/Portfolio-1/blob/main/images/science-museum-card.jpg)
 
 
 **Overview**
+---
 
 This project showcases skills in design, planning, and development using HTML and CSS, ensuring mobile-friendliness and accessibility for an engaging user experience.
 
 **Features**
+---
 
 - Fully responsive design for desktop and mobile devices
 
@@ -16,9 +19,10 @@ This project showcases skills in design, planning, and development using HTML an
 - Different redirection links tailored for different visitor groups (kids, teachers, and researchers) for an optimized user experience
 
 - Structured layout for seamless browsing and usability
----
+
 
 **Pages Included**
+---
 
 - [index.html](https://github.com/SocanIcode/Semester_project/blob/main-2/index.html) - Home Page
 
@@ -48,26 +52,30 @@ This project showcases skills in design, planning, and development using HTML an
 ---
 
 **Built With**
+---
 
 - Figma - UI/UX Design
 
 - GitHub Project Planning - Organizing development workflow
 
 - HTML - Structure & Markup
-
 - CSS - Styling & Layout
+  
   ---
 
 **Reflection & Areas for Improvement**
+---
 
 - JavaScript Integration - Enhancing interactivity for a more dynamic experience
 
 - Content Management & Folder Structure - Improving organization for better maintainability
 
-- Ensuring Public Accessibility - Making all project files available and easily accessible
-  ---
+ -Ensuring Public Accessibility - Making all project files available and easily accessible
+ 
+
 
 **User-Centric Experience**
+---
 
 This project establishes a structured user guideline for a museum, catering to three different visitor groups: researchers, teachers, and students/kids. Each group is offered tailored packages, improving the user experience significantly.
 
